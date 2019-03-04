@@ -1,1 +1,1 @@
-# Data-Structure-Projects-C++
+# Data-Structures-Projects-C++
