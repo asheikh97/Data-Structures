@@ -1,4 +1,4 @@
-# Data-Structures in C++ 
+# Data Structures in C++ 
 
 My academic projects from a Data Structures Course 
 
